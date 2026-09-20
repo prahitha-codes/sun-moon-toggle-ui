@@ -19,7 +19,7 @@ Interactive Sun and Moon toggle UI designed and prototyped in Figma.
 ## Screenshots
 
 ### Sun Mode
-![Sun Mode](sun-mode.png)
+![Sun Mode](sun_mode.png)
 
 ### Moon Mode
-![Moon Mode](moon-mode.png)
+![Moon Mode](moon_mode.png)
